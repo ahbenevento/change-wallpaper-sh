@@ -1,0 +1,10 @@
+# This file must be copied to ~/.config/autoload
+# Replace <path> with the folder where change_wallpaper.sh file exists.
+[Desktop Entry]
+Name=change_wallpaper
+GenericName=change_wallpaper
+Comment=Change the wallpaper after a specific time
+Exec=<path>/change_wallpaper.sh
+Terminal=false
+Type=Application
+X-GNOME-Autostart-enabled=true
